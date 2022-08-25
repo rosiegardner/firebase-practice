@@ -10,7 +10,7 @@ import 'firebase/firestore';
     projectId: "fir-practice-59ff0",
     storageBucket: "fir-practice-59ff0.appspot.com",
     messagingSenderId: "333419032801",
-    appId: "1:333419032801:web:a1c6cb5d5d7852439ac7a0"
+    appId: "1:333419032801:web:a1c6cb5d5d7852439ac7a0",
   };
 
   // Initialize Firebase
