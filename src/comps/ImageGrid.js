@@ -5,10 +5,10 @@ const ImageGrid = () => {
   const { docs } = useFirestore('images');
   console.log(docs);
   return (
-    <div className='img-grid'>
+    <div className="img-grid">
       { docs && docs.map(doc => (
-        <div className='img-wrap' key={doc.id}>
-          <img src={doc.url} alt='shrek'></img>
+        <div className="img-wrap" key={doc.id}>
+          <img src={doc.url} alt="uploaded"></img>
         </div>
       ))}
     </div>
