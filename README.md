@@ -1,3 +1,7 @@
+# KNOWN BUGS
+This is an older version, images will display but a not visible unless hovered over
+- Rosie Gardner
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
